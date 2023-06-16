@@ -1,0 +1,5 @@
+bin/
+*.swp
+.git_w/
+.git_l/
+
